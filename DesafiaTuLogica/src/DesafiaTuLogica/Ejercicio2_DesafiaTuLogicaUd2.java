@@ -15,7 +15,7 @@ public class Ejercicio2_DesafiaTuLogicaUd2 {
 			num = sc.nextInt();
 		}while(num<0);
 
-		System.out.println("\n" + "Los siguientes 20 números son:");
+		System.out.println("\n" + "Los 20 números consecutivos son:");
 		
 		for (int i=num; i<=num+20; i++){
 			System.out.print(i + " ");
